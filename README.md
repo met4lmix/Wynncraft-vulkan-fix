@@ -1,11 +1,21 @@
+<div align="center">
+  
 # Wynncraft Vulkan fix
-[![Download](https://github.com/met4lmix/Download-buttons/blob/main/modrinth_download.png)](https://modrinth.com/resourcepack/wynncraft-cyan-flame/versions)
+
+</div>
+
+![Comparision](https://cdn.modrinth.com/data/AmCmdyAP/images/8ee1391c0483c0e173753ceb91c3a158bf5c1ce7.png)
+
+<div align="center">
+  
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/wynncraft-vulkan-fix?style=flat&logo=modrinth&label=Downloads&color=00ae5b)](https://modrinth.com/resourcepack/wynncraft-vulkan-fix)
+[![Static Badge](https://img.shields.io/badge/License-MIT-blue)](https://github.com/met4lmix/Wynncraft-vulkan-fix?tab=MIT-1-ov-file)
+
+</div>
 
 > **Summary**
 - This pack is a small fix for Wynn pack when using [VulkanMod](https://modrinth.com/mod/vulkanmod)
 #
-
-
 > **Note**
 
 - This pack is only for Vulkan, you should only download/include it for your modpack if it is a Vulkan modpack

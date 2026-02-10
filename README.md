@@ -1,7 +1,7 @@
 <div align="center">
   
 # Wynncraft Vulkan fix
-
+**NOTICE:** Further fix for Wynn pack will need a "Vulkan core shader support mod" like [this mod](https://modrinth.com/mod/sodium-core-shader-support)
 </div>
 
 ![Comparision](https://cdn.modrinth.com/data/AmCmdyAP/images/8ee1391c0483c0e173753ceb91c3a158bf5c1ce7.png)
@@ -17,6 +17,7 @@
 > **Summary**
 - This pack is a small fix for Wynn pack when using [VulkanMod](https://modrinth.com/mod/vulkanmod)
 #
+
 > **Note**
 
 - This pack is only for Vulkan, you should only download/include it for your modpack if it is a Vulkan modpack

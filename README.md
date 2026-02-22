@@ -10,6 +10,7 @@
   
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/wynncraft-vulkan-fix?style=flat&logo=modrinth&label=Downloads&color=00ae5b)](https://modrinth.com/resourcepack/wynncraft-vulkan-fix)
 [![Static Badge](https://img.shields.io/badge/License-MIT-blue)](https://github.com/met4lmix/Wynncraft-vulkan-fix?tab=MIT-1-ov-file)
+[![Discord](https://img.shields.io/discord/1422420467712655453?style=flat&logo=discord&label=Discord&color=%235865F2&link=https%3A%2F%2Fdiscord.gg%2FaDX9f6euwX)](https://discord.gg/aDX9f6euwX)
 [![ko-fi](https://img.shields.io/badge/Support-8A2BE2?style=flat&logo=Ko-fi&logoColor=white&color=gray)](https://ko-fi.com/K3K51RMPIV)
 
 </div>

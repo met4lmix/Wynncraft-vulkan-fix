@@ -1,10 +1,10 @@
 <div align="center">
   
 # Wynncraft Vulkan fix
-**NOTICE:** Further fix for Wynn pack will need a "Vulkan core shader support mod" like [this mod](https://modrinth.com/mod/sodium-core-shader-support)
+**NOTICE:** Type `/toggle vfx unlimited` to fix vfx
 </div>
 
-![Comparision](https://cdn.modrinth.com/data/AmCmdyAP/images/8ee1391c0483c0e173753ceb91c3a158bf5c1ce7.png)
+![Comparision](https://cdn.modrinth.com/data/AmCmdyAP/images/2f5d89367ce243bd5687f7213d5b1f64861a5940.png)
 
 <div align="center">
   
@@ -17,6 +17,12 @@
 
 > **Summary**
 - This pack is a small fix for Wynn pack when using [VulkanMod](https://modrinth.com/mod/vulkanmod)
+
+> **Wynncraft now supprt 26.2, which have build-in vulkan. So what next?**
+
+- Today I tested Wynncraft on vanilla 26.2 myself (switched API to Vulkan) and found that almost every core shader feature working fine, there are some issues which will be fixed once Wynncraft's team fully ported Wynn pack.
+- Since [Wynncraft Vulkan fix](https://modrinth.com/project/AmCmdyAP) is half way though finishing its mission. The pack will remain as a temporary fix when installing [VulkanMod](https://modrinth.com/project/JYQhtZtO) until it can load core shader perfectly.
+
 #
 
 > **Note**
